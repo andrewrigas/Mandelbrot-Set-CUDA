@@ -1,0 +1,41 @@
+GPU Time (NOT Including Data Transfer): 0.015624s
+GPU Time (Including Data Transfer): 0.015624s
+CPU Time creating PPM file: 8.093669s
+Time for the hole execution: 8.379218s
+
+GPU Time (NOT Including Data Transfer): 0.015621s
+GPU Time (Including Data Transfer): 0.015621s
+CPU Time creating PPM file: 8.140011s
+Time for the hole execution: 8.439819s
+
+GPU Time (NOT Including Data Transfer): 0.015623s
+GPU Time (Including Data Transfer): 0.015623s
+CPU Time creating PPM file: 8.109311s
+Time for the hole execution: 8.373441s
+
+GPU Time (NOT Including Data Transfer): 0.015634s
+GPU Time (Including Data Transfer): 0.015634s
+CPU Time creating PPM file: 8.068512s
+Time for the hole execution: 8.318485s
+
+GPU Time (NOT Including Data Transfer): 0.015626s
+GPU Time (Including Data Transfer): 0.016224s
+CPU Time creating PPM file: 8.024039s
+Time for the hole execution: 8.394642s
+
+GPU Time (NOT Including Data Transfer): 0.015626s
+GPU Time (Including Data Transfer): 0.015626s
+CPU Time creating PPM file: 9.029039s
+Time for the hole execution: 9.284642s
+
+
+GPU Time (NOT Including Data Transfer): 0.016626s
+GPU Time (Including Data Transfer): 0.016626s
+CPU Time creating PPM file: 8.019039s
+Time for the hole execution: 8.245642s
+
+
+GPU Time (NOT Including Data Transfer): 0.015626s
+GPU Time (Including Data Transfer): 0.015626s
+CPU Time creating PPM file: 8.029039s
+Time for the hole execution: 8.284642s
